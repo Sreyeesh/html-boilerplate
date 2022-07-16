@@ -1,0 +1,35 @@
+body  {
+    background-color: #1e193c;
+    color: #3a5fe5;
+}
+
+p {
+    color: #3a5fe5
+
+
+}
+.intro {
+    font-size : 30px;
+    
+}
+.highlight {
+    background-color:yellow;
+}
+.accent-color {
+    color: red;
+    
+}
+h1 {
+
+    font-size: 70px;
+    color: #ff1515;
+}
+
+
+.top-section {
+    background-color:#1e0707 ;
+}
+
+.bottom-section {
+    background-color:#1e0707 
+}
